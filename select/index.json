@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "流星のパルス",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-13T17:36:07.010220Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流星のパルス (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/01_流星のパルス_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/02_流星のパルス_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO",
+      "has_synced": true,
+      "path": "select/03_流星のパルス_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "流星のパルス - Pulse of the Meteor (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/04_流星のパルス_-_Pulse_of_the_Meteor_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "流星のパルス (feat. 鏡音レン)",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/05_流星のパルス_(feat._鏡音レン)_Luna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "流星のパルス (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/06_流星のパルス_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/07_流星のパルス_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "流星のパルス feat. 鏡音レン",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_流星のパルス_feat._鏡音レン_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "流星のパルス (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)",
+      "artist": "Leo/need (野口瑠璃子, 礒部花凜, 上田麗奈, 中島由貴)",
+      "has_synced": true,
+      "path": "select/09_流星のパルス_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&MEIKO)_Leo_need_(野口瑠璃子,_礒部花凜,_上田麗奈,_中島由貴).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "*Luna feat. 鏡音レン",
+      "has_synced": true,
+      "path": "select/10_流星のパルス_Luna_feat._鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/11_流星のパルス_Luna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "流星のパルス (feat. 星乃一歌 & 天馬咲希 & 望月穂波 & 日野森志歩 & MEIKO)",
+      "artist": "Leo need",
+      "has_synced": true,
+      "path": "select/12_流星のパルス_(feat._星乃一歌_&_天馬咲希_&_望月穂波_&_日野森志歩_&_MEIKO)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "*Luna & 鏡音レン",
+      "has_synced": true,
+      "path": "select/13_流星のパルス_Luna_&_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "*Luna feat. 鏡音レン V4X (Power)",
+      "has_synced": true,
+      "path": "select/14_流星のパルス_Luna_feat._鏡音レン_V4X_(Power).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "*Luna, びび",
+      "has_synced": true,
+      "path": "select/15_流星のパルス_Luna,_びび.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "流星のパルス",
+      "artist": "Luna feat. Kagamine, Len",
+      "has_synced": true,
+      "path": "select/16_流星のパルス_Luna_feat._Kagamine,_Len.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流星のパルス",
+      "artist": "Leo/need × MEIKO",
+      "has_synced": false,
+      "path": "select/pl_01_流星のパルス_Leo_need_×_MEIKO.txt"
+    }
+  ]
+}
